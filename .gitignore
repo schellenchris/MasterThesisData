@@ -1,0 +1,14 @@
+venv/**
+dist/**
+elastix/**
+SimpleITK.egg-info/**
+_SimpleITK.so
+voxelmorph/**
+SimpleElastix/**
+build/**
+results/**
+__pycache__/**
+*.nii
+*.nrrd
+CT_Model71_Energy90_vec_frame1_to_frame2.txt
+liverSegments.p
